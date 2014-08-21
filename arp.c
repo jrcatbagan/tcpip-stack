@@ -1,9 +1,13 @@
-/*
- * arp.c
+// File: arp.c
+// Created: 15, June 2013
+
+/* Copyright (C) 2013, Jarielle Catbagan
  *
- * Created: 6/15/2013 8:49:35 PM
- *  Author: Jarielle
- */ 
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
 
 #include "arp.h"
 

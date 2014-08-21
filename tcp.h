@@ -1,6 +1,14 @@
 // File: tcp.h
 // Created: 27, May 2013
 
+/* Copyright (C) 2013, Jarielle Catbagan
+ *
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
+
 #ifndef TCP_H_
 #define TCP_H_
 

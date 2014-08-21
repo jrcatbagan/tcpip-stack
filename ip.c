@@ -1,6 +1,14 @@
 // File: ip.c
 // Created: 01, June 2013
 
+/* Copyright (C) 2013, Jarielle Catbagan
+ *
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
+
 #include "ip.h"
 
 unsigned char ip_verify_header_validity(unsigned char packet[],

@@ -1,6 +1,14 @@
 // File: tcp.c
 // Created: 01, June 2013
 
+/* Copyright (C) 2013, Jarielle Catbagan
+ *
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
+
 #include "tcp.h"
 
 unsigned char tcp_verify_header_validity(unsigned char packet[], unsigned int s_port,

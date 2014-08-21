@@ -1,6 +1,14 @@
 // File: http.c
 // Created: 01, June 2013
 
+/* Copyright (C) 2013, Jarielle Catbagan
+ *
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
+
 #include "http.h"
 
 void http_extract_data() {

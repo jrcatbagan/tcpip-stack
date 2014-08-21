@@ -1,6 +1,14 @@
 // File: arp.h
 // Created: 15, June 2013
 
+/* Copyright (C) 2013, Jarielle Catbagan
+ *
+ * BSD License
+ *
+ * Please refer to LICENSE.txt for license details
+ *
+ */
+
 #ifndef ARP_H_
 #define ARP_H_
 
